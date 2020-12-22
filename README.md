@@ -8,3 +8,5 @@ Various eBooks created on behalf of Acoptex.com:
 3. Arduino for beginners Step by Step - This eBook will help you get started with your first adventures in electronics, but there’s a whole world of opportunities to explore if you want to take things further.
 
 4. ESP8266 Web Server Step by Step - This eBook will help you to build a web server with the ESP8266 WiFi module.
+
+5. ESP32 Web Server Step by Step - This eBook will help you to build a web server with the ESP32 WiFi and Bluetooth development board.
