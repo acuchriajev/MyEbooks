@@ -6,3 +6,5 @@ Various eBooks created on behalf of Acoptex.com:
 2. Multimeter Basics Step by Step - This eBook will help you to master the multitester skills as this is the one of the most fundamental skills a maker should be able to do. 
 
 3. Arduino for beginners Step by Step - This eBook will help you get started with your first adventures in electronics, but there’s a whole world of opportunities to explore if you want to take things further.
+
+4. ESP8266 Web Server Step by Step - This eBook will help you to build a web server with the ESP8266 WiFi module.
